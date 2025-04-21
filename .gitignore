@@ -1,6 +1,4 @@
 genai\
 genai
 .env
-
-**/__pycache/**
-2_reflection_agents/__pycache__
+**/__pycache__/
