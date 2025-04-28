@@ -46,4 +46,3 @@ while True:
         }, config=config)
 
         print("AI: " + result["messages"][-1].content)
- 
