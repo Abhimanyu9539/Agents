@@ -2,3 +2,4 @@ genai\
 genai
 .env
 **/__pycache__/
+6_chatbot/checkpoint.sqlite
